@@ -1,51 +1,25 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+Desafio do bootcamp da DIO. 
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook: Mente Desbloqueada - Uma jornada pela Neurociência
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Mente Desbloqueada é um ebook criado por mim que explora resuimidamente os segredos do cérebro humano e como a neurociência pode nos ajudar a compreender melhor o funcionamento da mente. Este projeto foi desenvolvido em uma das aulas do bootcamp, utilizando tecnologias de IA generativa para criar um conteúdo envolvente e acessível.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGPT: utilizado para gerar a base do conteúdo textual do ebook.
+- Designer: usado para criar imagens ilustrativas e capas de alta qualidade.
+- PowerPoint: ferramenta de design gráfico utilizada para a diagramação e estética visual do ebook.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisa e Planejamento: decidi falar de neurociências por já ter um conhecimento prévio na área devido a minha graduação. Com isso, planejei tópicos importantes para serem citados e que tornariam o ebook interessante e acessível.
+Desenvolvimento de Conteúdo: utilizei o ChatGPT para gerar os capítulos e seções do ebook, com base nos que já tinha pensado, e ofereci os prompts ideais para ele me oferecer algo parecido com o que eu tinha imaginado, garantindo que a linguagem fosse clara e acessível.
+Criação de Ilustrações: com o Designer, criei a imagem que utilizei na capa.
+Diagramação: no PowerPoint, organizei o conteúdo textual e visual de forma coerente e atrativa, resultando em um ebook esteticamente agradável e fácil de ler.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado final é um ebook intitulado Mente Desbloqueada: Uma jornada pela Neurociência, que proporciona aos leitores uma compreensão acessível e simplificada sobre como o cérebro funciona, as funções cognitivas, etc. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar este ebook foi um bom desafio. Utilizar IA generativa permitiu acelerar o processo de criação e garantir um alto nível de qualidade no conteúdo. Este projeto demonstra o potencial das tecnologias de IA para revolucionar a produção de conhecimento e recursos educacionais. Mas é importante citar a importância da revisão e edição humana do conteúdo para aumentar a sua credibilidade, que foi o que eu fiz. 
