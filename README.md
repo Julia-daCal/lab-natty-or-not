@@ -15,11 +15,13 @@ Mente Desbloqueada é um ebook criado por mim que explora resuimidamente os segr
 ## 🧐 Processo de Criação
 Pesquisa e Planejamento: decidi falar de neurociências por já ter um conhecimento prévio na área devido a minha graduação. Com isso, planejei tópicos importantes para serem citados e que tornariam o ebook interessante e acessível.
 Desenvolvimento de Conteúdo: utilizei o ChatGPT para gerar os capítulos e seções do ebook, com base nos que já tinha pensado, e ofereci os prompts ideais para ele me oferecer algo parecido com o que eu tinha imaginado, garantindo que a linguagem fosse clara e acessível.
-Criação de Ilustrações: com o Designer, criei a imagem que utilizei na capa.
+Criação de Ilustrações: usei o Designer para criar a imagem que utilizei na capa.
 Diagramação: no PowerPoint, organizei o conteúdo textual e visual de forma coerente e atrativa, resultando em um ebook esteticamente agradável e fácil de ler.
 
 ## 🚀 Resultados
 O resultado final é um ebook intitulado Mente Desbloqueada: Uma jornada pela Neurociência, que proporciona aos leitores uma compreensão acessível e simplificada sobre como o cérebro funciona, as funções cognitivas, etc. 
+
+<a href="https://github.com/Julia-daCal/lab-natty-or-not/blob/main/exemplos/ebook%20neurociencia%20bootcamp.pdf" title="View PDF now"> 📕Clique aqui para ler</a> 
 
 ## 💭 Reflexão (Opcional)
 Criar este ebook foi um bom desafio. Utilizar IA generativa permitiu acelerar o processo de criação e garantir um alto nível de qualidade no conteúdo. Este projeto demonstra o potencial das tecnologias de IA para revolucionar a produção de conhecimento e recursos educacionais. Mas é importante citar a importância da revisão e edição humana do conteúdo para aumentar a sua credibilidade, que foi o que eu fiz. 
